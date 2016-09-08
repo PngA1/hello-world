@@ -1,2 +1,8 @@
 # hello-world
-Understanding repository and files in github
+
+Simple test project created to help
+Understand repository and files in github
+
+
+
+
